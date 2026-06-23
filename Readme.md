@@ -62,7 +62,7 @@ ecommerce-funnel-analysis/
 │   ├── d.customer_segmentation.sql
 │   ├── e.device_performance_analysis.sql
 │   ├── f.session_funnel_analysis.sql
-│   └──  g.user_funnel_analysis.sql
+│   └── g.user_funnel_analysis.sql
 │   
 │
 ├── screenshots/
