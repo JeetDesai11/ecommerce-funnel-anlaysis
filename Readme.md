@@ -1,5 +1,6 @@
 # User Journey & Conversion Funnel Analysis
-> **Note:** This project was completed in **November–December 2025** and was later uploaded to GitHub for portfolio and documentation purposes.
+
+ **Note:** This project was completed in **November–December 2025** and was later uploaded to GitHub for portfolio and documentation purposes.
 
 ## Overview
 
